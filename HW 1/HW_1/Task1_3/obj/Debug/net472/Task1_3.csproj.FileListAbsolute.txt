@@ -1,0 +1,9 @@
+D:\Study\PM\HW 1\HW_1\Task1_3\bin\Debug\net472\Task1_3.exe.config
+D:\Study\PM\HW 1\HW_1\Task1_3\bin\Debug\net472\Task1_3.exe
+D:\Study\PM\HW 1\HW_1\Task1_3\bin\Debug\net472\Task1_3.pdb
+D:\Study\PM\HW 1\HW_1\Task1_3\obj\Debug\net472\Task1_3.csprojAssemblyReference.cache
+D:\Study\PM\HW 1\HW_1\Task1_3\obj\Debug\net472\Task1_3.AssemblyInfoInputs.cache
+D:\Study\PM\HW 1\HW_1\Task1_3\obj\Debug\net472\Task1_3.AssemblyInfo.cs
+D:\Study\PM\HW 1\HW_1\Task1_3\obj\Debug\net472\Task1_3.csproj.CoreCompileInputs.cache
+D:\Study\PM\HW 1\HW_1\Task1_3\obj\Debug\net472\Task1_3.exe
+D:\Study\PM\HW 1\HW_1\Task1_3\obj\Debug\net472\Task1_3.pdb
