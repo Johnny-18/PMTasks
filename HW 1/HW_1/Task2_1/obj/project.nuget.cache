@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WNfbd4dvBCo2OSac+5dpjTkxLvrZ1mIEkLOyWzXXscKpjwc6BSbIH4StmZp8FSkDMlbYLGqa+1UtWAXy+UOb8A==",
+  "dgSpecHash": "OHqgWu2RNQueUJ0UasI/DKShdLsKOYknOUVQyEL0UXlrlovI0tfcNMkqYKMW4zzzGFfIOH1/jZBCASewa2XNZw==",
   "success": true,
-  "projectFilePath": "D:\\Study\\PM\\HW 1\\HW_1\\Task2_1\\Task2_1.csproj",
+  "projectFilePath": "D:\\Study\\PM\\PMTasks\\HW 1\\HW_1\\Task2_1\\Task2_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\18viz\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512"
   ],

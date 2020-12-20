@@ -8,8 +8,6 @@ namespace Task3
         {
             if (args.Length == 0)
             {
-                Console.WriteLine(char.IsNumber('3'));
-                
                 Console.WriteLine(
                     "The program is calculator." +
                     "\nCreated by Ivan Zherybor.");
@@ -159,7 +157,7 @@ namespace Task3
             return res;
         }
 
-        static string[] ParseString(string str)
+        static string[] ParseString(string str)// -2123,12--322313.123
         {
             str = str.Replace(" ", ""); // replace some symbols
             str = str.Replace(",", ".");

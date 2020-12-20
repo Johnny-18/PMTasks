@@ -1,0 +1,12 @@
+D:\Study\PM\PMTasks\HW_2\Task1_5\obj\Debug\net472\Task1_5.csprojAssemblyReference.cache
+D:\Study\PM\PMTasks\HW_2\Task1_5\obj\Debug\net472\Task1_5.AssemblyInfoInputs.cache
+D:\Study\PM\PMTasks\HW_2\Task1_5\obj\Debug\net472\Task1_5.AssemblyInfo.cs
+D:\Study\PM\PMTasks\HW_2\Task1_5\obj\Debug\net472\Task1_5.csproj.CoreCompileInputs.cache
+D:\Study\PM\PMTasks\HW_2\Task1_5\bin\Debug\net472\Task1_5.exe.config
+D:\Study\PM\PMTasks\HW_2\Task1_5\bin\Debug\net472\Task1_5.exe
+D:\Study\PM\PMTasks\HW_2\Task1_5\bin\Debug\net472\Task1_5.pdb
+D:\Study\PM\PMTasks\HW_2\Task1_5\bin\Debug\net472\Library.dll
+D:\Study\PM\PMTasks\HW_2\Task1_5\bin\Debug\net472\Library.pdb
+D:\Study\PM\PMTasks\HW_2\Task1_5\obj\Debug\net472\Task1_5.csproj.CopyComplete
+D:\Study\PM\PMTasks\HW_2\Task1_5\obj\Debug\net472\Task1_5.exe
+D:\Study\PM\PMTasks\HW_2\Task1_5\obj\Debug\net472\Task1_5.pdb

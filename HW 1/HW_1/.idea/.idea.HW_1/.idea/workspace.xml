@@ -11,6 +11,24 @@
     <projectFile>Task2_4/Task2_4.csproj</projectFile>
     <projectFile>Task3/Task3.csproj</projectFile>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ed5187-346d-4c44-926d-d15188992d3b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +36,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -38,6 +55,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1lQnQH4HY1xRNRlxBVxK97qKvBF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +68,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.Task3">
+  <component name="RunManager" selected=".NET Project.Task2_4">
     <configuration name="Task1_1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -224,6 +242,7 @@
       <updated>1607538167292</updated>
       <workItem from="1607538230735" duration="5426000" />
       <workItem from="1607603598038" duration="32804000" />
+      <workItem from="1607648492521" duration="323000" />
     </task>
     <servers />
   </component>
@@ -232,6 +251,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -244,22 +274,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="430" height="464" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1607645937417" />
-    <state width="1493" height="288" key="GridCell.Tab.0.bottom" timestamp="1607647466000">
+    <state width="1493" height="256" key="GridCell.Tab.0.bottom" timestamp="1607648884175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607647466000" />
-    <state width="1493" height="288" key="GridCell.Tab.0.center" timestamp="1607647466000">
+    <state width="1493" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607648884175" />
+    <state width="1493" height="256" key="GridCell.Tab.0.center" timestamp="1607648884175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607647466000" />
-    <state width="1493" height="288" key="GridCell.Tab.0.left" timestamp="1607647466000">
+    <state width="1493" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607648884175" />
+    <state width="1493" height="256" key="GridCell.Tab.0.left" timestamp="1607648884175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607647466000" />
-    <state width="1493" height="288" key="GridCell.Tab.0.right" timestamp="1607647466000">
+    <state width="1493" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607648884175" />
+    <state width="1493" height="256" key="GridCell.Tab.0.right" timestamp="1607648884175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607647466000" />
+    <state width="1493" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607648884175" />
     <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1607647466000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -339,14 +369,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Task2_1/Program.cs</url>
           <line>23</line>
-          <properties documentPath="D:\Study\PM\HW 1\HW_1\Task2_1\Program.cs" initialLine="21">
-            <startOffsets>
-              <option value="780" />
-            </startOffsets>
-            <endOffsets>
-              <option value="793" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\Study\PM\HW 1\HW_1\Task2_1\Program.cs" initialLine="21" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
