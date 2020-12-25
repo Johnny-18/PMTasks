@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\18viz\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\18viz\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_HW_3.1740090158.00" t="ExcludeRecursive" />
+    <e p="D:\Study\PM\PMTasks\HW_3\HW_3" t="IncludeFlat">
+      <e p="HW_3.sln" t="IncludeFlat" />
+      <e p="Library" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Comparers" t="Include">
+          <e p="PlayerComparerOnAge.cs" t="Include" />
+          <e p="PlayerComparerOnName.cs" t="Include" />
+          <e p="PlayerComparerOnRank.cs" t="Include" />
+          <e p="PlayerEqualityComparer.cs" t="Include" />
+          <e p="ProductEqualityComparer.cs" t="Include" />
+        </e>
+        <e p="Enum" t="Include">
+          <e p="PlayerRank.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IPlayer.cs" t="Include" />
+          <e p="IRegion.cs" t="Include" />
+          <e p="IRegionSettings.cs" t="Include" />
+        </e>
+        <e p="Library.csproj" t="IncludeRecursive" />
+        <e p="Menu" t="Include">
+          <e p="ChatBot.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="Inventory.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+          <e p="Region.cs" t="Include" />
+          <e p="RegionSettings.cs" t="Include" />
+          <e p="Tag.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="Library.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="BracketsChecker.cs" t="Include" />
+          <e p="FileWorker.cs" t="Include" />
+          <e p="InventoryService.cs" t="Include" />
+          <e p="ProductService.cs" t="Include" />
+          <e p="ServiceForArray.cs" t="Include" />
+          <e p="TagService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Task1_1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="Task1_1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Task1_1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Task1_2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="Task1_2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Task1_2.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Task1_3" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="Task1_3.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Task1_3.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Task1_4" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="Task1_4.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Task1_4.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Task2_1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="Task2_1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Task2_1.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

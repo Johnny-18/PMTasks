@@ -1,0 +1,13 @@
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\bin\Debug\net472\Task1_1.exe.config
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\bin\Debug\net472\Task1_1.exe
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\bin\Debug\net472\Task1_1.pdb
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\bin\Debug\net472\Newtonsoft.Json.dll
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\obj\Debug\net472\Task1_1.csprojAssemblyReference.cache
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\obj\Debug\net472\Task1_1.AssemblyInfoInputs.cache
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\obj\Debug\net472\Task1_1.AssemblyInfo.cs
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\obj\Debug\net472\Task1_1.csproj.CoreCompileInputs.cache
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\obj\Debug\net472\Task1_1.csproj.CopyComplete
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\obj\Debug\net472\Task1_1.exe
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\obj\Debug\net472\Task1_1.pdb
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\bin\Debug\net472\Library.dll
+D:\Study\PM\PMTasks\HW_3\HW_3\Task1_1\bin\Debug\net472\Library.pdb
