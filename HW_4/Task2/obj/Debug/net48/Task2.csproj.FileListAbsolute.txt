@@ -1,0 +1,9 @@
+E:\Study\PM\PMTasks\HW_4\Task2\bin\Debug\net48\Task2.exe.config
+E:\Study\PM\PMTasks\HW_4\Task2\bin\Debug\net48\Task2.exe
+E:\Study\PM\PMTasks\HW_4\Task2\bin\Debug\net48\Task2.pdb
+E:\Study\PM\PMTasks\HW_4\Task2\obj\Debug\net48\Task2.csprojAssemblyReference.cache
+E:\Study\PM\PMTasks\HW_4\Task2\obj\Debug\net48\Task2.AssemblyInfoInputs.cache
+E:\Study\PM\PMTasks\HW_4\Task2\obj\Debug\net48\Task2.AssemblyInfo.cs
+E:\Study\PM\PMTasks\HW_4\Task2\obj\Debug\net48\Task2.csproj.CoreCompileInputs.cache
+E:\Study\PM\PMTasks\HW_4\Task2\obj\Debug\net48\Task2.exe
+E:\Study\PM\PMTasks\HW_4\Task2\obj\Debug\net48\Task2.pdb

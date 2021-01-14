@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Library.Notes.Interfaces
+namespace Library.Interfaces
 {
     public interface INote
     {

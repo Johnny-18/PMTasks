@@ -1,6 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
-using Library.Notes.Models;
+using Library.Menu;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace Task3
 {
@@ -8,7 +11,10 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            NotesMenu menu = new NotesMenu("notes.json");
+            menu.PrintAboutCreatorAndProgram();
+            menu.Start();
+            //todo index from file to not changed
         }
     }
 }

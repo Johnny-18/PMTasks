@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Diagnostics;
+using System.IO;
+using System.Threading;
+using Library.Services;
 
 namespace Task1
 {
@@ -6,7 +10,8 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            Console.ReadLine();
+            PrimesNumberService service = new PrimesNumberService();
+            service.SearchPrimes();
         }
     }
 }

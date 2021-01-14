@@ -1,15 +1,21 @@
 ﻿using System;
-using Library.Notes.Interfaces;
+using Library.Interfaces;
+using Newtonsoft.Json;
 
-namespace Library.Notes.Models
+namespace Library.Models
 {
     public class Note : INote
     {
+        [NonSerialized]
         private static int _id;
-        public int Id { get; }
-        public string Title { get; }
-        public string Text { get; }
-        public DateTime CreatedOn { get; }
+        [JsonProperty("id")]
+        public int Id { get; set; }
+        [JsonProperty("title")]
+        public string Title { get; set; }
+        [JsonProperty("text")]
+        public string Text { get; set; }
+        [JsonProperty("createdOn")]
+        public DateTime CreatedOn { get; set; }
 
         static Note()
         {

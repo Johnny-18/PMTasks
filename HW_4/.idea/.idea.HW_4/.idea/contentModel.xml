@@ -7,28 +7,33 @@
       <e p="HW_4.sln" t="IncludeFlat" />
       <e p="Library" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Library.csproj" t="IncludeRecursive" />
-        <e p="Notes" t="Include">
-          <e p="Interfaces" t="Include">
-            <e p="INote.cs" t="Include" />
-            <e p="INoteService.cs" t="Include" />
-          </e>
-          <e p="Models" t="Include">
-            <e p="Note.cs" t="Include" />
-          </e>
-          <e p="NotesMenu.cs" t="Include" />
-          <e p="Services" t="Include">
-            <e p="FileWorker.cs" t="Include" />
-            <e p="NoteService.cs" t="Include" />
-          </e>
+        <e p="Interfaces" t="Include">
+          <e p="INote.cs" t="Include" />
+          <e p="INoteService.cs" t="Include" />
+          <e p="ISaveWork.cs" t="Include" />
         </e>
-        <e p="notes.json" t="Include" />
+        <e p="Library.csproj" t="IncludeRecursive" />
+        <e p="Menu" t="Include">
+          <e p="NotesMenu.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Note.cs" t="Include" />
+          <e p="Result.cs" t="Include" />
+          <e p="Settings.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net48" t="Include">
               <e p="Library.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="FileWorker.cs" t="Include" />
+          <e p="NoteService.cs" t="Include" />
+          <e p="PrimesNumberService.cs" t="Include" />
+          <e p="ResultService.cs" t="Include" />
+          <e p="SettingsService.cs" t="Include" />
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
@@ -42,6 +47,8 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="result.json" t="Include" />
+        <e p="settings.json" t="Include" />
         <e p="Task1.csproj" t="IncludeRecursive" />
       </e>
       <e p="Task2" t="IncludeRecursive">
@@ -58,6 +65,7 @@
       </e>
       <e p="Task3" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="notes.json" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net48" t="Include">

@@ -9,4 +9,13 @@
       <ProjectReference Include="..\Library\Library.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="result.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="settings.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
 </Project>

@@ -7,4 +7,13 @@ E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.csproj.CoreCompileInput
 E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.csproj.CopyComplete
 E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.dll
 E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.pdb
-E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\notes.json
+E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.csprojAssemblyReference.cache
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\System.Buffers.dll
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\System.Memory.dll
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\System.Numerics.Vectors.dll
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\System.Text.Encodings.Web.dll
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\System.Text.Json.dll
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\System.ValueTuple.dll

@@ -1,4 +1,3 @@
-E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\Notes\notes.json
 E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\Task1.exe.config
 E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\Task1.exe
 E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\Task1.pdb
@@ -12,3 +11,15 @@ E:\Study\PM\PMTasks\HW_4\Task1\obj\Debug\net48\Task1.csproj.CoreCompileInputs.ca
 E:\Study\PM\PMTasks\HW_4\Task1\obj\Debug\net48\Task1.csproj.CopyComplete
 E:\Study\PM\PMTasks\HW_4\Task1\obj\Debug\net48\Task1.exe
 E:\Study\PM\PMTasks\HW_4\Task1\obj\Debug\net48\Task1.pdb
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\result.json
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\settings.json
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\System.Buffers.dll
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\System.Memory.dll
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\System.Numerics.Vectors.dll
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\System.Text.Encodings.Web.dll
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\System.Text.Json.dll
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+E:\Study\PM\PMTasks\HW_4\Task1\bin\Debug\net48\System.ValueTuple.dll
+E:\Study\PM\PMTasks\HW_4\Task1\obj\Debug\net48\Task1.exe.config

@@ -1,12 +1,13 @@
 ﻿using System.Collections.Generic;
+using Library.Models;
 
-namespace Library.Notes.Interfaces
+namespace Library.Interfaces
 {
     public interface INoteService
     {
         void CreateNote(string text);
         void DeleteNote(int id);
-        List<INote> GetNotes(string strSearch = "");
-        INote GetNote(int id);
+        List<Note> GetNotes(string strSearch = "");
+        Note GetNote(int id);
     }
 }
