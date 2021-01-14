@@ -6,7 +6,7 @@
 
     <ItemGroup>
       <None Remove="Notes\notes.json" />
-      <Content Include="Notes\notes.json">
+      <Content Include="notes.json">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </Content>
     </ItemGroup>

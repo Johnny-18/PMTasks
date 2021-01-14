@@ -1,11 +1,10 @@
-E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\Notes\notes.json
 E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\Library.dll
 E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\Library.pdb
 E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\Newtonsoft.Json.dll
-E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.csprojAssemblyReference.cache
 E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.AssemblyInfoInputs.cache
 E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.AssemblyInfo.cs
 E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.csproj.CoreCompileInputs.cache
 E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.csproj.CopyComplete
 E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.dll
 E:\Study\PM\PMTasks\HW_4\Library\obj\Debug\net48\Library.pdb
+E:\Study\PM\PMTasks\HW_4\Library\bin\Debug\net48\notes.json

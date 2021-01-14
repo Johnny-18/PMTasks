@@ -8,7 +8,6 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            var note = new Note("lol kek");
             Console.WriteLine();
         }
     }
