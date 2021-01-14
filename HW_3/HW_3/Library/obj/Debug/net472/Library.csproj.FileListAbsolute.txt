@@ -6,3 +6,11 @@ D:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.AssemblyInfo.cs
 D:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.csproj.CoreCompileInputs.cache
 D:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.dll
 D:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.pdb
+E:\Study\PM\PMTasks\HW_3\HW_3\Library\bin\Debug\net472\Library.dll
+E:\Study\PM\PMTasks\HW_3\HW_3\Library\bin\Debug\net472\Library.pdb
+E:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.csprojAssemblyReference.cache
+E:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.AssemblyInfoInputs.cache
+E:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.AssemblyInfo.cs
+E:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.csproj.CoreCompileInputs.cache
+E:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.dll
+E:\Study\PM\PMTasks\HW_3\HW_3\Library\obj\Debug\net472\Library.pdb

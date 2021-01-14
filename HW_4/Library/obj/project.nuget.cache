@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2919cmH/EhIdOKIOz9r1cmcft+NSC0I3fqKCkewYVMsqYY8tzbYbPdPTlat35dZicfcokyBmkdcVJRAQlxBSTQ==",
+  "success": true,
+  "projectFilePath": "E:\\Study\\PM\\PMTasks\\HW_4\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan Zherybor\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

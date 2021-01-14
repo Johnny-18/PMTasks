@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj": {}
+    "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj": {}
   },
   "projects": {
-    "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj": {
+    "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj",
+        "projectUniqueName": "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\18viz\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\obj\\",
+        "projectPath": "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\Ivan Zherybor\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\18viz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivan Zherybor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "net472": {
+            "targetAlias": "net472",
             "projectReferences": {}
           }
         },
@@ -37,7 +38,8 @@
       },
       "frameworks": {
         "net472": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

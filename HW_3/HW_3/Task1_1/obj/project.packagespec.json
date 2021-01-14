@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Task1_1\\Task1_1.csproj",
+    "projectUniqueName": "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Task1_1\\Task1_1.csproj",
     "projectName": "Task1_1",
-    "projectPath": "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Task1_1\\Task1_1.csproj",
-    "outputPath": "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Task1_1\\obj\\",
+    "projectPath": "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Task1_1\\Task1_1.csproj",
+    "outputPath": "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Task1_1\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net472"
@@ -16,8 +16,8 @@
     "frameworks": {
       "net472": {
         "projectReferences": {
-          "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj": {
-            "projectPath": "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj"
+          "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj": {
+            "projectPath": "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Library\\Library.csproj"
           }
         }
       }
@@ -36,7 +36,7 @@
           "version": "[12.0.3, )"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
     }
   },
   "runtimes": {

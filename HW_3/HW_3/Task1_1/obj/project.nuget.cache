@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VsMUuuONN5N7FKFJvbWlLjZrhs6Lt3LSm++lhnB9QCo2CsUT/FFYBgIjJgLYPqiEBsNf6m1ARA1iaSzZLXdsBw==",
+  "dgSpecHash": "U6yXVV4/kxVZSiwOTZVo+eWaaDghmeSoLswqmvPS1Oy8vhAUkkZOg5WE6cFwwALLkdCGF1i7Vx+XmD3Ssp8KFA==",
   "success": true,
-  "projectFilePath": "D:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Task1_1\\Task1_1.csproj",
+  "projectFilePath": "E:\\Study\\PM\\PMTasks\\HW_3\\HW_3\\Task1_1\\Task1_1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\18viz\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\Ivan Zherybor\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
