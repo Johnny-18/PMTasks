@@ -15,7 +15,11 @@
     },
     "frameworks": {
       "net48": {
-        "projectReferences": {}
+        "projectReferences": {
+          "E:\\Study\\PM\\PMTasks\\HW_4\\Library\\Library.csproj": {
+            "projectPath": "E:\\Study\\PM\\PMTasks\\HW_4\\Library\\Library.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

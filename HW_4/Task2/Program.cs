@@ -1,4 +1,4 @@
-﻿using System;
+﻿using Library.Menu;
 
 namespace Task2
 {
@@ -6,7 +6,8 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ConverterMenu menu = new ConverterMenu();
+            menu.Start();
         }
     }
 }

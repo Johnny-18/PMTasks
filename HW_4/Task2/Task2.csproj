@@ -5,4 +5,15 @@
         <TargetFramework>net48</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Remove="cache.json" />
+      <Content Include="cache.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Library\Library.csproj" />
+    </ItemGroup>
+
 </Project>
