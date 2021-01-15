@@ -6,8 +6,6 @@ namespace Library.Models
 {
     public class Note : INote
     {
-        [NonSerialized]
-        private static int _id;
         [JsonProperty("id")]
         public int Id { get; set; }
         [JsonProperty("title")]
@@ -17,15 +15,9 @@ namespace Library.Models
         [JsonProperty("createdOn")]
         public DateTime CreatedOn { get; set; }
 
-        static Note()
+        public Note(int id, string text)
         {
-            _id = 1;
-        }
-
-        public Note(string text)
-        {
-            Id = _id;
-            _id++;
+            Id = id;
             Text = text;
             CreatedOn = DateTime.UtcNow;
 

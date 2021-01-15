@@ -20,7 +20,7 @@ namespace Library.Menu
 
             for (;;)
             {
-                Console.WriteLine("1.Find notes." +
+                Console.WriteLine("1.Find notes" +
                                   "\n2.Review notes" +
                                   "\n3.Create note" +
                                   "\n4.Delete note" +

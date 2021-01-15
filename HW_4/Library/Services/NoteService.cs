@@ -10,6 +10,8 @@ namespace Library.Services
     {
         private readonly FileWorker _fw;
 
+        private static int _id;
+
         private readonly List<Note> _notes;
 
         public NoteService(string path)
@@ -19,11 +21,13 @@ namespace Library.Services
             
             if(_notes == null)
                 _notes = new List<Note>();
+
+            _id = _notes.Last().Id;
         }
         
         public void CreateNote(string text)
         {
-            _notes.Add(new Note(text));
+            _notes.Add(new Note(GetUniqueId(),text));
             SaveWork();
         }
 
@@ -42,7 +46,7 @@ namespace Library.Services
                 x.Id.ToString().Contains(strSearch) || x.Text.Contains(strSearch) || x.Title.Contains(strSearch) ||
                 x.CreatedOn.ToString(CultureInfo.InvariantCulture).Contains(strSearch)).ToList();
             
-            return notes;
+            return notes.OrderBy(x => x.Id).ToList();
         }
 
         public Note GetNote(int id)
@@ -53,6 +57,15 @@ namespace Library.Services
         public void SaveWork()
         {
             _fw.Serialize(_notes);
+        }
+
+        private int GetUniqueId()
+        {
+            if (_id == 0)
+                return 1;
+
+            _id++;
+            return _id;
         }
     }
 }
