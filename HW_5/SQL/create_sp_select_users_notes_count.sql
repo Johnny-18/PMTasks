@@ -10,4 +10,4 @@ as $$
     inner join notes n
     on n.user_id = u.id and n.is_deleted = false
     group by u.id, u.first_name, u.last_name
-    $$;
+    $$;S
