@@ -8,4 +8,4 @@ create table notes(
     constraint fk_user_id foreign key (user_id) references users(id)
 );
 
-create index if not exists modified_idx on notes (modified_at);
+create index if not exists modified_idx on notes using btree (modified_at);
