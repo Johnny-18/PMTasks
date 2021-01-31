@@ -14,7 +14,6 @@ namespace Task3
             NotesMenu menu = new NotesMenu("notes.json");
             menu.PrintAboutCreatorAndProgram();
             menu.Start();
-            //todo index from file to not changed
         }
     }
 }

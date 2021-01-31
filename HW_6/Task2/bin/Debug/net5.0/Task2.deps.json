@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Task2/1.0.0": {
+        "dependencies": {
+          "HW_6_Library": "1.0.0"
+        },
+        "runtime": {
+          "Task2.dll": {}
+        }
+      },
+      "HW_6_Library/1.0.0": {
+        "runtime": {
+          "HW_6_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HW_6_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

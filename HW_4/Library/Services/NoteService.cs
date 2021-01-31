@@ -22,7 +22,7 @@ namespace Library.Services
             if(_notes == null)
                 _notes = new List<Note>();
 
-            _id = _notes.Last().Id;
+            _id = _notes.LastOrDefault().Id;
         }
         
         public void CreateNote(string text)
@@ -61,9 +61,6 @@ namespace Library.Services
 
         private int GetUniqueId()
         {
-            if (_id == 0)
-                return 1;
-
             _id++;
             return _id;
         }

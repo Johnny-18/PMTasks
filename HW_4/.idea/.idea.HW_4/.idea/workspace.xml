@@ -20,78 +20,29 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/75/e86382a2/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2676A2DA-6EDC-420E-890E-D28AA4572EE5/15/JsonTextReader.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0EBEB27C-A6DF-45BB-AEEC-500DC98FF733/23/7c629d00/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2676A2DA-6EDC-420E-890E-D28AA4572EE5/5/JsonConvert.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2676A2DA-6EDC-420E-890E-D28AA4572EE5/12/JsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/a1/15b2584a/File.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2676A2DA-6EDC-420E-890E-D28AA4572EE5/F/JsonReader.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/40/c67aa776/Directory.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2676A2DA-6EDC-420E-890E-D28AA4572EE5/12/JsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2676A2DA-6EDC-420E-890E-D28AA4572EE5/57/JsonSerializerInternalReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2676A2DA-6EDC-420E-890E-D28AA4572EE5/5/JsonConvert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/17/85b5f059/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HW 1/HW_1/Task1_3/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../HW 1/HW_1/Task1_4/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/71/dcc1591f/FileStream.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/4a/ba7abe34/TimeSpan.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/17/85b5f059/Task.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../HW_3/HW_3/Library/Services/FileWorker.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/0d/62d711b0/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/a0/a2790062/__Error.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2676A2DA-6EDC-420E-890E-D28AA4572EE5/57/JsonSerializerInternalReader.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2676A2DA-6EDC-420E-890E-D28AA4572EE5/15/JsonTextReader.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/a1/15b2584a/File.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../HW 1/HW_1/Task1_3/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/75/e86382a2/String.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../HW 1/HW_1/Task1_4/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/0d/62d711b0/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Library/Class1.cs" />
-        <option value="$PROJECT_DIR$/Library/Notates/NotesMenu.cs" />
-        <option value="$PROJECT_DIR$/Library/Notes/notes.json" />
-        <option value="$PROJECT_DIR$/Library/Notes/Models.cs" />
-        <option value="$PROJECT_DIR$/Library/Notes/Services/NoteServiec.cs" />
-        <option value="$PROJECT_DIR$/Library/Notes/Interfaces/INote.cs" />
-        <option value="$PROJECT_DIR$/Library/Notes/NotesMenu.cs" />
-        <option value="$PROJECT_DIR$/Library/Notes/Interfaces/IWorkSave.cs" />
-        <option value="$PROJECT_DIR$/Library/Notes/Interfaces/ISaveWork.cs" />
-        <option value="$PROJECT_DIR$/Library/Notes/Models/Note.cs" />
-        <option value="$PROJECT_DIR$/Library/bin/Debug/net48/notes.json" />
-        <option value="$PROJECT_DIR$/Library/Notes/Interfaces/INoteService.cs" />
-        <option value="$PROJECT_DIR$/Library/Notes/Services/NoteService.cs" />
-        <option value="$PROJECT_DIR$/Library/Notes/Menu/NotesMenu.cs" />
-        <option value="$PROJECT_DIR$/Task3/bin/Debug/net48/notes.json" />
-        <option value="$PROJECT_DIR$/Library/settings.json" />
-        <option value="$PROJECT_DIR$/Task3/bin/Debug/net48/no.json" />
-        <option value="$PROJECT_DIR$/Library/Notes/Services/FileWorker.cs" />
-        <option value="$PROJECT_DIR$/Task3/notes.json" />
-        <option value="$PROJECT_DIR$/Library/Library.csproj" />
-        <option value="$PROJECT_DIR$/Task3/bin/Debug/notes.json" />
-        <option value="$PROJECT_DIR$/Library/notes.json" />
-        <option value="$PROJECT_DIR$/Library/Models/Куыгде.cs" />
-        <option value="$PROJECT_DIR$/Library/Interfaces/INote.cs" />
-        <option value="$PROJECT_DIR$/Library/Interfaces/INoteService.cs" />
-        <option value="$PROJECT_DIR$/Library/Interfaces/ISaveWork.cs" />
-        <option value="$PROJECT_DIR$/Task3/Program.cs" />
-        <option value="$PROJECT_DIR$/Library/Services/FileWorker.cs" />
-        <option value="$PROJECT_DIR$/Library/Services/ResultService.cs" />
-        <option value="$PROJECT_DIR$/Task1/Program.cs" />
-        <option value="$PROJECT_DIR$/Task1/bin/Debug/net48/settings.json" />
-        <option value="$PROJECT_DIR$/Library/Models/Settings.cs" />
-        <option value="$PROJECT_DIR$/Task1/settings.json" />
-        <option value="$PROJECT_DIR$/Library/Services/PrimesNumberService.cs" />
-        <option value="$PROJECT_DIR$/Library/Services/SettingsService.cs" />
-        <option value="$PROJECT_DIR$/Task2/cache.json" />
-        <option value="$PROJECT_DIR$/Task2/Program.cs" />
-        <option value="$PROJECT_DIR$/Library/Models/Result.cs" />
-        <option value="$PROJECT_DIR$/Task2/bin/Debug/net48/cache.json" />
-        <option value="$PROJECT_DIR$/Library/Services/RequestService.cs" />
-        <option value="$PROJECT_DIR$/Library/Models/Cache.cs" />
-        <option value="$PROJECT_DIR$/Library/Services/CacheService.cs" />
-        <option value="$PROJECT_DIR$/Library/Menu/ConverterMenu.cs" />
-        <option value="$PROJECT_DIR$/Library/Services/ConverterService.cs" />
-        <option value="$PROJECT_DIR$/Library/Models/Note.cs" />
-        <option value="$PROJECT_DIR$/Library/Menu/NotesMenu.cs" />
-        <option value="$PROJECT_DIR$/Library/Services/NoteService.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Task3/Program.cs" />
+      <option value="$PROJECT_DIR$/Library/Services/NoteService.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1myyChGEtPgHDDZgVc7r6DVveNU" />
   <component name="ProjectViewState">
@@ -171,6 +122,9 @@
       <updated>1610480001533</updated>
       <workItem from="1610480003695" duration="3855000" />
       <workItem from="1610624816809" duration="35047000" />
+      <workItem from="1610999737139" duration="15000" />
+      <workItem from="1611223018443" duration="1951000" />
+      <workItem from="1612132252442" duration="622000" />
     </task>
     <servers />
   </component>
@@ -288,21 +242,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Library/Services/NoteService.cs</url>
-          <line>35</line>
-          <properties documentPath="E:\Study\PM\PMTasks\HW_4\Library\Services\NoteService.cs" initialLine="31">
-            <startOffsets>
-              <option value="836" />
-              <option value="877" />
-            </startOffsets>
-            <endOffsets>
-              <option value="890" />
-              <option value="887" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Library/Menu/NotesMenu.cs</url>
           <line>157</line>

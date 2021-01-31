@@ -1,0 +1,12 @@
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\bin\Debug\net5.0\HW_6_Library.deps.json
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\bin\Debug\net5.0\HW_6_Library.dll
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\bin\Debug\net5.0\ref\HW_6_Library.dll
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\bin\Debug\net5.0\HW_6_Library.pdb
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\obj\Debug\net5.0\HW_6_Library.csprojAssemblyReference.cache
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\obj\Debug\net5.0\HW_6_Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\obj\Debug\net5.0\HW_6_Library.AssemblyInfoInputs.cache
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\obj\Debug\net5.0\HW_6_Library.AssemblyInfo.cs
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\obj\Debug\net5.0\HW_6_Library.csproj.CoreCompileInputs.cache
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\obj\Debug\net5.0\HW_6_Library.dll
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\obj\Debug\net5.0\ref\HW_6_Library.dll
+E:\Study\PM\PMTasks\HW_6\HW_6_Library\obj\Debug\net5.0\HW_6_Library.pdb
