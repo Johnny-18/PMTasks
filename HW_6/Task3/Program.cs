@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Threading.Tasks;
 using HW_6_Library.Models.LoginTask;
 using HW_6_Library.Services;
 
@@ -53,7 +52,7 @@ namespace Task3
                 
                 fileWorker.Serialize(_resultPath, result);
 
-                Console.WriteLine($"Successful login: {countSuc}, failed: {countFail}.");
+                Console.WriteLine($"Successful logins: {countSuc}, failed: {countFail}.");
             }
             catch (FileNotFoundException)
             {
