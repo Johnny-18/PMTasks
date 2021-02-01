@@ -1,8 +1,8 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace HW_6_Library.Models
+namespace HW_6_Library.Models.SettingsTask
 {
-    public class Settings
+    public class Setting
     {
         [JsonPropertyName("primesFrom")]
         public int PrimesFrom { get; set; }

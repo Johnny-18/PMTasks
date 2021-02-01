@@ -1,1 +1,1 @@
-﻿[{"primesFrom": -100,  "primesTo": 10},null,{"primesFrom": 5,"primesTo": 15},{"primesFrom": 61,"primesTo": 20}]
+﻿[{"primesFrom": -100,  "primesTo": 1000000},null,{"primesFrom": 5,"primesTo": 150000},{"primesFrom": 61000,"primesTo": 200000}]

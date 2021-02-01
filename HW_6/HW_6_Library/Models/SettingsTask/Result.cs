@@ -1,7 +1,6 @@
-﻿using System;
-using System.Text.Json.Serialization;
+﻿using System.Text.Json.Serialization;
 
-namespace HW_6_Library.Models
+namespace HW_6_Library.Models.SettingsTask
 {
     public class Result
     {

@@ -8,9 +8,15 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="HW_6_Library.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include">
-          <e p="Result.cs" t="Include" />
-          <e p="Settings.cs" t="Include" />
-          <e p="ThreadSafeHashSet.cs" t="Include" />
+          <e p="LoginTask" t="Include">
+            <e p="Login.cs" t="Include" />
+            <e p="Result.cs" t="Include" />
+          </e>
+          <e p="SettingsTask" t="Include">
+            <e p="Result.cs" t="Include" />
+            <e p="Setting.cs" t="Include" />
+            <e p="ThreadSafeHashSet.cs" t="Include" />
+          </e>
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -22,6 +28,7 @@
         <e p="Services" t="Include">
           <e p="FileWorker.cs" t="Include" />
           <e p="InteractionWithUser.cs" t="Include" />
+          <e p="LoginClient.cs" t="Include" />
           <e p="PrimaryNumberService.cs" t="Include" />
           <e p="ThreadService.cs" t="Include" />
         </e>
@@ -56,6 +63,7 @@
       </e>
       <e p="Task3" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="logins.csv" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net5.0" t="Include">
@@ -64,6 +72,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="result.json" t="Include" />
         <e p="Task3.csproj" t="IncludeRecursive" />
       </e>
     </e>

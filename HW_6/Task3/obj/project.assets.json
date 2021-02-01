@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "HW_6_Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/HW_6_Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HW_6_Library.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HW_6_Library/1.0.0": {
+      "type": "project",
+      "path": "../HW_6_Library/HW_6_Library.csproj",
+      "msbuildProject": "../HW_6_Library/HW_6_Library.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "HW_6_Library >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Ivan Zherybor\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Study\\PM\\PMTasks\\HW_6\\HW_6_Library\\HW_6_Library.csproj": {
+              "projectPath": "E:\\Study\\PM\\PMTasks\\HW_6\\HW_6_Library\\HW_6_Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -7,6 +7,7 @@ using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
 using HW_6_Library.Models;
+using HW_6_Library.Models.SettingsTask;
 using HW_6_Library.Services;
 
 namespace Task2
@@ -32,7 +33,7 @@ namespace Task2
             {
                 stopwatch.Start();
 
-                var settings = await fileWorker.Deserialize<List<Settings>>(_settingsPath);
+                var settings = await fileWorker.Deserialize<List<Setting>>(_settingsPath);
                 if (settings == null || settings.Count == 0)
                 {
                     success = true;
@@ -43,13 +44,10 @@ namespace Task2
                 {
                     // get values without null objects
                     settings = settings.Where(x => x != null).ToList();
-                    
-                    var countObject = new CountdownEvent(settings.Count);
 
                     //method create and start threads for work with settings
-                    ThreadService.CreateThreads(settings, service, safeHashSet, countObject);
-
-                    countObject.Wait();
+                    ThreadService.CreateThreadsForPrimes(settings, service, safeHashSet);
+                    
                     primes = safeHashSet.GetPrimesArr();
                     success = true;
                 }

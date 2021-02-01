@@ -25,6 +25,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3F3FA731-022E-4869-9EC4-843F5B753E2D/5/CountdownEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/647FAEDF-A0C0-4C01-B79E-04471FFD80DF/197/Interlocked.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/647FAEDF-A0C0-4C01-B79E-04471FFD80DF/3A1/StreamWriter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../HW 1/HW_1/Task1_3/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../HW 1/HW_1/Task1_2/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -32,25 +33,40 @@
     <setting file="file://$PROJECT_DIR$/../HW 1/HW_1/Task1_4/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0CC4FC17-2950-45AB-BA39-25925C72104C/7e/daf570b3/FileSystem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/647FAEDF-A0C0-4C01-B79E-04471FFD80DF/37/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/647FAEDF-A0C0-4C01-B79E-04471FFD80DF/233/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../HW 1/HW_1/Task1_1/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Task3/Program.cs" />
       <option value="$PROJECT_DIR$/MyLibrary/Program.cs" />
       <option value="$PROJECT_DIR$/HW_6_Library/Class1.cs" />
       <option value="$PROJECT_DIR$/HW_6_Library/PrimaryNumberService.cs" />
-      <option value="$PROJECT_DIR$/Task2/result.json" />
       <option value="$PROJECT_DIR$/HW_6_Library/Services/InteractionWithUser.cs" />
       <option value="$PROJECT_DIR$/Task1/Program.cs" />
-      <option value="$PROJECT_DIR$/HW_6_Library/Services/FileWorker.cs" />
       <option value="$PROJECT_DIR$/HW_6_Library/Models/ThreadSafeHashSet.cs" />
       <option value="$PROJECT_DIR$/HW_6_Library/Models/Settings.cs" />
       <option value="$PROJECT_DIR$/HW_6_Library/Services/PrimaryNumberService.cs" />
       <option value="$PROJECT_DIR$/HW_6_Library/Models/Result.cs" />
-      <option value="$PROJECT_DIR$/HW_6_Library/Services/ThreadService.cs" />
-      <option value="$PROJECT_DIR$/Task2/Program.cs" />
       <option value="$PROJECT_DIR$/Task2/settings.json" />
+      <option value="$PROJECT_DIR$/Task2/result.json" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/Login.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/Setting.cs" />
+      <option value="$PROJECT_DIR$/Task3/result.json" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/SettingsTask.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/SettingsTask/Result.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/SettingsTask/Setting.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/SettingsTask/ThreadSafeHashSet.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/LoginsTask/Result.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/LoginsTask/Login.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Services/LoginService.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/LoginTask/Result.cs" />
+      <option value="$PROJECT_DIR$/Task2/Program.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Models/LoginTask/Login.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Services/ThreadService.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Services/FileWorker.cs" />
+      <option value="$PROJECT_DIR$/HW_6_Library/Services/LoginClient.cs" />
+      <option value="$PROJECT_DIR$/Task3/Program.cs" />
+      <option value="$PROJECT_DIR$/Task3/logins.csv" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1njyOiNzEr2KmruwAlTDk0Lyn1z" />
@@ -64,8 +80,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RainbowCSV.Settings" />
   </component>
-  <component name="RunManager" selected=".NET Project.Task2">
+  <component name="RunManager" selected=".NET Project.Task3">
     <configuration name="MyLibrary" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -149,7 +166,8 @@
       <updated>1611917766813</updated>
       <workItem from="1611917771485" duration="8959000" />
       <workItem from="1612017874371" duration="3662000" />
-      <workItem from="1612120607266" duration="10859000" />
+      <workItem from="1612120607266" duration="18472000" />
+      <workItem from="1612142467117" duration="237000" />
     </task>
     <servers />
   </component>
@@ -163,52 +181,39 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Task2/Program.cs</url>
-          <line>62</line>
+          <line>61</line>
           <properties documentPath="E:\Study\PM\PMTasks\HW_6\Task2\Program.cs" initialLine="68" containingFunctionPresentation="method 'Main'">
             <startOffsets>
-              <option value="1937" />
+              <option value="1954" />
             </startOffsets>
             <endOffsets>
-              <option value="1978" />
+              <option value="1995" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/HW_6_Library/Models/ThreadSafeHashSet.cs</url>
-          <line>21</line>
-          <properties documentPath="E:\Study\PM\PMTasks\HW_6\HW_6_Library\Models\ThreadSafeHashSet.cs" initialLine="21" containingFunctionPresentation="method 'Add'">
-            <startOffsets>
-              <option value="486" />
-            </startOffsets>
-            <endOffsets>
-              <option value="515" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Task2/Program.cs</url>
-          <line>35</line>
+          <line>36</line>
           <properties documentPath="E:\Study\PM\PMTasks\HW_6\Task2\Program.cs" initialLine="34" containingFunctionPresentation="method 'Main'">
             <startOffsets>
-              <option value="1021" />
+              <option value="1060" />
             </startOffsets>
             <endOffsets>
-              <option value="1065" />
+              <option value="1104" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Task2/Program.cs</url>
-          <line>34</line>
+          <line>35</line>
           <properties documentPath="E:\Study\PM\PMTasks\HW_6\Task2\Program.cs" initialLine="33" containingFunctionPresentation="method 'Main'">
             <startOffsets>
-              <option value="929" />
+              <option value="969" />
             </startOffsets>
             <endOffsets>
-              <option value="1004" />
+              <option value="1043" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="11" />

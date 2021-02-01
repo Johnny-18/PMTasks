@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace HW_6_Library.Models
+namespace HW_6_Library.Models.SettingsTask
 {
     public class ThreadSafeHashSet
     {
