@@ -1,0 +1,112 @@
+2021-02-22 02:54:04.324 +02:00 [INF] Now listening on: https://localhost:5001
+2021-02-22 02:54:04.348 +02:00 [INF] Now listening on: http://localhost:5000
+2021-02-22 02:54:04.350 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-22 02:54:04.351 +02:00 [INF] Hosting environment: Development
+2021-02-22 02:54:04.351 +02:00 [INF] Content root path: E:\Study\PM\PMTasks\HW_9\Web.PrimeNumbers\Web.PrimeNumbers
+2021-02-22 02:54:04.904 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger - -
+2021-02-22 02:54:04.948 +02:00 [INF] HTTP GET /swagger responded 404 in 34.9871 ms
+2021-02-22 02:54:04.966 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 404 0 - 66.2348ms
+2021-02-22 02:54:09.136 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-02-22 02:54:09.146 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-02-22 02:54:09.151 +02:00 [INF] Endpoint: /, answer: Web application for prime numbers, created by Ivan Zherybor
+2021-02-22 02:54:09.154 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-02-22 02:54:09.158 +02:00 [INF] HTTP GET / responded 200 in 18.5825 ms
+2021-02-22 02:54:09.166 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 29.9197ms
+2021-02-22 02:54:13.347 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/primes/2 - -
+2021-02-22 02:54:13.351 +02:00 [INF] Executing endpoint 'primes/{number:int} HTTP: GET'
+2021-02-22 02:54:13.356 +02:00 [INF] Endpoint: primes/number:int
+2021-02-22 02:54:13.357 +02:00 [INF] Answer: number: 2 is prime
+2021-02-22 02:54:13.359 +02:00 [INF] Executed endpoint 'primes/{number:int} HTTP: GET'
+2021-02-22 02:54:13.361 +02:00 [INF] HTTP GET /primes/2 responded 200 in 10.3776 ms
+2021-02-22 02:54:13.363 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/primes/2 - - - 200 0 - 16.0253ms
+2021-02-22 02:57:16.665 +02:00 [INF] Now listening on: https://localhost:5001
+2021-02-22 02:57:16.688 +02:00 [INF] Now listening on: http://localhost:5000
+2021-02-22 02:57:16.692 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-22 02:57:16.693 +02:00 [INF] Hosting environment: Development
+2021-02-22 02:57:16.694 +02:00 [INF] Content root path: E:\Study\PM\PMTasks\HW_9\Web.PrimeNumbers\Web.PrimeNumbers
+2021-02-22 02:57:17.016 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-02-22 02:57:17.059 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-02-22 02:57:17.064 +02:00 [INF] Endpoint: /, answer: Web application for prime numbers, created by Ivan Zherybor
+2021-02-22 02:57:17.068 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-02-22 02:57:17.073 +02:00 [INF] HTTP GET / responded 200 in 49.7954 ms
+2021-02-22 02:57:17.082 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 68.5320ms
+2021-02-22 02:58:41.781 +02:00 [INF] Now listening on: https://localhost:5001
+2021-02-22 02:58:41.869 +02:00 [INF] Now listening on: http://localhost:5000
+2021-02-22 02:58:41.871 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-22 02:58:41.873 +02:00 [INF] Hosting environment: Development
+2021-02-22 02:58:41.874 +02:00 [INF] Content root path: E:\Study\PM\PMTasks\HW_9\Web.PrimeNumbers\Web.PrimeNumbers
+2021-02-22 02:58:42.473 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-02-22 02:58:42.595 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-02-22 02:58:42.601 +02:00 [INF] Endpoint: /, answer: Web application for prime numbers, created by Ivan Zherybor
+2021-02-22 02:58:42.658 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-02-22 02:58:42.663 +02:00 [INF] HTTP GET / responded 200 in 177.1412 ms
+2021-02-22 02:58:42.695 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 225.2866ms
+2021-02-22 02:59:03.323 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/primes?from=10&to=asfds application/json 39
+2021-02-22 02:59:03.326 +02:00 [INF] Executing endpoint 'primes HTTP: GET'
+2021-02-22 02:59:51.720 +02:00 [INF] Now listening on: https://localhost:5001
+2021-02-22 02:59:51.747 +02:00 [INF] Now listening on: http://localhost:5000
+2021-02-22 02:59:51.749 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-22 02:59:51.750 +02:00 [INF] Hosting environment: Development
+2021-02-22 02:59:51.751 +02:00 [INF] Content root path: E:\Study\PM\PMTasks\HW_9\Web.PrimeNumbers\Web.PrimeNumbers
+2021-02-22 02:59:52.462 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-02-22 02:59:52.506 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-02-22 02:59:52.514 +02:00 [INF] Endpoint: /, answer: Web application for prime numbers, created by Ivan Zherybor
+2021-02-22 02:59:52.519 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-02-22 02:59:52.524 +02:00 [INF] HTTP GET / responded 200 in 55.2832 ms
+2021-02-22 02:59:52.533 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 73.6223ms
+2021-02-22 03:00:07.990 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/primes?from=10&to=asfds - -
+2021-02-22 03:00:07.992 +02:00 [INF] Executing endpoint 'primes HTTP: GET'
+2021-02-22 03:00:07.998 +02:00 [INF] Endpoint: primes
+2021-02-22 03:00:08.000 +02:00 [INF] Answer: Bad request
+2021-02-22 03:00:08.001 +02:00 [INF] Executed endpoint 'primes HTTP: GET'
+2021-02-22 03:00:08.005 +02:00 [INF] HTTP GET /primes?from=10&to=asfds responded 400 in 12.6773 ms
+2021-02-22 03:00:08.008 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/primes?from=10&to=asfds - - - 400 0 - 17.7323ms
+2021-02-22 03:00:12.760 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/primes?from=10&to=100 - -
+2021-02-22 03:00:12.763 +02:00 [INF] Executing endpoint 'primes HTTP: GET'
+2021-02-22 03:00:12.767 +02:00 [INF] Endpoint: primes
+2021-02-22 03:00:12.770 +02:00 [INF] Answer: primes was found in range 10 => 100
+2021-02-22 03:00:12.800 +02:00 [INF] Executed endpoint 'primes HTTP: GET'
+2021-02-22 03:00:12.802 +02:00 [INF] HTTP GET /primes?from=10&to=100 responded 200 in 38.9969 ms
+2021-02-22 03:00:12.804 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/primes?from=10&to=100 - - - 200 - application/json;+charset=utf-8 44.0821ms
+2021-02-22 03:00:22.758 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/primes?from=10&to=a - -
+2021-02-22 03:00:22.761 +02:00 [INF] Executing endpoint 'primes HTTP: GET'
+2021-02-22 03:00:22.765 +02:00 [INF] Endpoint: primes
+2021-02-22 03:00:22.767 +02:00 [INF] Answer: Bad request
+2021-02-22 03:00:22.768 +02:00 [INF] Executed endpoint 'primes HTTP: GET'
+2021-02-22 03:00:22.769 +02:00 [INF] HTTP GET /primes?from=10&to=a responded 400 in 8.1542 ms
+2021-02-22 03:00:22.772 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/primes?from=10&to=a - - - 400 0 - 13.5786ms
+2021-02-22 03:00:24.939 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/primes?from=10&to=1 - -
+2021-02-22 03:00:24.941 +02:00 [INF] Executing endpoint 'primes HTTP: GET'
+2021-02-22 03:00:24.943 +02:00 [INF] Endpoint: primes
+2021-02-22 03:00:24.944 +02:00 [INF] Answer: Bad request
+2021-02-22 03:00:24.946 +02:00 [INF] Executed endpoint 'primes HTTP: GET'
+2021-02-22 03:00:24.948 +02:00 [INF] HTTP GET /primes?from=10&to=1 responded 400 in 7.0588 ms
+2021-02-22 03:00:24.951 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/primes?from=10&to=1 - - - 400 0 - 11.7902ms
+2021-02-22 03:00:27.647 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/primes?from=10&to=10 - -
+2021-02-22 03:00:27.655 +02:00 [INF] Executing endpoint 'primes HTTP: GET'
+2021-02-22 03:00:27.656 +02:00 [INF] Endpoint: primes
+2021-02-22 03:00:27.657 +02:00 [INF] Answer: primes was found in range 10 => 10
+2021-02-22 03:00:27.659 +02:00 [INF] Executed endpoint 'primes HTTP: GET'
+2021-02-22 03:00:27.662 +02:00 [INF] HTTP GET /primes?from=10&to=10 responded 200 in 6.4011 ms
+2021-02-22 03:00:27.671 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/primes?from=10&to=10 - - - 200 - application/json;+charset=utf-8 24.5916ms
+2021-02-22 03:00:30.796 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/primes?from=10&to=1 - -
+2021-02-22 03:00:30.799 +02:00 [INF] Executing endpoint 'primes HTTP: GET'
+2021-02-22 03:00:30.802 +02:00 [INF] Endpoint: primes
+2021-02-22 03:00:30.804 +02:00 [INF] Answer: Bad request
+2021-02-22 03:00:30.805 +02:00 [INF] Executed endpoint 'primes HTTP: GET'
+2021-02-22 03:00:30.806 +02:00 [INF] HTTP GET /primes?from=10&to=1 responded 400 in 6.4021 ms
+2021-02-22 03:00:30.808 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/primes?from=10&to=1 - - - 400 0 - 11.6817ms
+2021-02-22 03:00:33.220 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/primes?from=10&to=11 - -
+2021-02-22 03:00:33.223 +02:00 [INF] Executing endpoint 'primes HTTP: GET'
+2021-02-22 03:00:33.226 +02:00 [INF] Endpoint: primes
+2021-02-22 03:00:33.227 +02:00 [INF] Answer: primes was found in range 10 => 11
+2021-02-22 03:00:33.232 +02:00 [INF] Executed endpoint 'primes HTTP: GET'
+2021-02-22 03:00:33.234 +02:00 [INF] HTTP GET /primes?from=10&to=11 responded 200 in 11.8898 ms
+2021-02-22 03:00:33.237 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/primes?from=10&to=11 - - - 200 - application/json;+charset=utf-8 17.3746ms
+2021-02-22 03:00:41.083 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/primes?from=-10&to=1 - -
+2021-02-22 03:00:41.085 +02:00 [INF] Executing endpoint 'primes HTTP: GET'
+2021-02-22 03:00:41.089 +02:00 [INF] Endpoint: primes
+2021-02-22 03:00:41.091 +02:00 [INF] Answer: primes was found in range -10 => 1
+2021-02-22 03:00:41.094 +02:00 [INF] Executed endpoint 'primes HTTP: GET'
+2021-02-22 03:00:41.095 +02:00 [INF] HTTP GET /primes?from=-10&to=1 responded 200 in 10.0155 ms
+2021-02-22 03:00:41.099 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/primes?from=-10&to=1 - - - 200 - application/json;+charset=utf-8 16.4935ms
