@@ -40,7 +40,7 @@ namespace Web.PrimeNumbers
                     var text = "Web application for prime numbers, created by Ivan Zherybor";
                     
                     logger.Log(LogLevel.Information, "Endpoint: /, answer: {Text}", text);
-                    
+
                     await context.Response.WriteAsync(text);
                 });
 
