@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiPrimesControllers", "WebApiPrimesControllers.csproj", "{D552AF24-2148-471E-8F02-451EDE471E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTests", "..\WebApiTests\WebApiTests.csproj", "{9DF6FCD1-9F59-455A-BA65-CC2B207E0FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D552AF24-2148-471E-8F02-451EDE471E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D552AF24-2148-471E-8F02-451EDE471E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D552AF24-2148-471E-8F02-451EDE471E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D552AF24-2148-471E-8F02-451EDE471E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF6FCD1-9F59-455A-BA65-CC2B207E0FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF6FCD1-9F59-455A-BA65-CC2B207E0FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF6FCD1-9F59-455A-BA65-CC2B207E0FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF6FCD1-9F59-455A-BA65-CC2B207E0FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
